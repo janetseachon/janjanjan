@@ -1,0 +1,5 @@
+﻿Rebuild started...
+1>------ Rebuild All started: Project: Janet, Configuration: Debug Any CPU ------
+1>  Janet -> D:\Franz Files\SDM Subject\Berlito Berlito\bin\Debug\TestCal.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+========== Elapsed 00:01.134 ==========
